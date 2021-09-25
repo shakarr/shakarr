@@ -7,7 +7,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shakarr.scanner)
 
 
-👇 Pulsa en tu consola o terminal para conectarte conmigo.
+👇 Escribe en tu terminal para conectarte conmigo.
 
 ```bash
 npx shakar
