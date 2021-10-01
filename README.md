@@ -4,7 +4,7 @@
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://shakarr.github.io)
 ![GitHub followers](https://img.shields.io/github/followers/shakarr?style=social)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shakarr)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shakarr.scanner)
 
 
 👇 Escribe en tu terminal para conectarte conmigo.
