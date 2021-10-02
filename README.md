@@ -1,4 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻, Soy Ridel alias shakar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>नमस्ते (Namaste)🙏🏻, I'm Ridel alias shakar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
@@ -7,13 +7,13 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shakarr.scanner)
 
 
-👇 Escribe en tu terminal para conectarte conmigo.
+👇 Write in your terminal to connect with me.
 
 ```bash
 npx shakar
 ```
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco mas acerde mi...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const shakar = {
