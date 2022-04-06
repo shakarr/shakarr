@@ -18,16 +18,16 @@ npx shakar
 ```javascript
 const shakar = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java"],
+    code: ["Javascript", "Python", "Java", "TS"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         backEnd: {
-            js: ["Node"],
+            js: ["NodeJS"],
         },
         mobileApp: {
             native: ["React-native",]
         },
-        databases: ["MySql", "sqlite"],
+        databases: ["MySql", "sqlite", "MongoDB"],
         misc: ["Firebase", "selenium"]
     },
 
