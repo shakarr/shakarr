@@ -25,7 +25,7 @@ const shakar = {
             js: ["NodeJS"],
         },
         mobileApp: {
-            native: ["React-native", "flutter"]
+            native: ["React-native", "Flutter"]
         },
         databases: ["MySql", "sqlite", "MongoDB"],
         misc: ["Firebase", "selenium"]
