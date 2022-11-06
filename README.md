@@ -1,7 +1,7 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Ridel alias shakar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-
+<a href="https://discord.gg/mJaP9TJJXF" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Banner 4"/></a>
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://shakarr.github.io)
 ![GitHub followers](https://img.shields.io/github/followers/shakarr?style=social)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shakarr.scanner)
