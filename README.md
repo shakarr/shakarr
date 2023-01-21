@@ -53,7 +53,6 @@ const shakar = {
     <img align="center" src="https://user-images.githubusercontent.com/31443880/213877637-55fe7a11-2dac-4a0f-8346-9dfd7376c2ee.png" alt="" height="30" width="30" />
     <img align="center" src="https://user-images.githubusercontent.com/31443880/213877706-97219d94-84e1-432b-80ef-0d004a399d0d.png" alt="" height="30" width="30" />
     <img align="center" src="https://user-images.githubusercontent.com/31443880/213877751-4bdcd54a-6a3f-43fb-822c-e16e469917ef.png" alt="" height="30" width="30" />
-    <img align="center" src="" alt="" height="30" width="40" />
 </p>
 
 ### Connect with me
