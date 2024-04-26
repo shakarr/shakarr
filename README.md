@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="center">
-    <a href="https://shakarr.github.io" target="_blank">
+    <a href="https://ridelsaavedra.com" target="_blank">
         <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://ridelsaavedra.com" />
     </a>
     <img src="https://img.shields.io/github/followers/shakarr?style=social" />
