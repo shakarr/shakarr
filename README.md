@@ -2,8 +2,8 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="center">
-    <a href="https://ridelsaavedra.com" target="_blank">
-        <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://ridelsaavedra.com" />
+    <a href="https://portfolio.shakarzr.com" target="_blank">
+        <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://portfolio.shakarzr.com" />
     </a>
     <img src="https://img.shields.io/github/followers/shakarr?style=social" />
     <img src="https://komarev.com/ghpvc/?username=shakarr&label=Profile%20views&color=0e75b6&style=flat" alt="shakarr" />
