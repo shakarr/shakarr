@@ -6,7 +6,7 @@
         <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://portfolio.shakarzr.com" />
     </a>
     <img src="https://img.shields.io/github/followers/shakarr?style=social" />
-    <img src="https://komarev.com/ghpvc/?username=shakarr&label=Profile%20views&color=0e75b6&style=flat" alt="shakarr" />
+    <img src="https://visitorbadge.shakarzr.com/api/counter/hit/shakarzr/shakarzr" alt="shakarr" />
 </p>
 <p align="center">
     <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=shakarr&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
